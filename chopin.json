@@ -1,1 +1,10 @@
-
+{
+  "kernelSource": {
+    "name": "Coolapk.Hwhmi",  <--- 这里改
+    "repo": "你的源码Git地址",
+    "branch": "你的源码分支",
+    "device": "chopin",
+    "defconfig": "chopin_user_defconfig"
+  },
+  "withKernelSU": true
+}
