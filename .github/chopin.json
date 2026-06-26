@@ -1,1 +1,10 @@
-
+{
+  "kernelSource": {
+    "name": "Coolapk.Hwhmi",
+    "repo": "https://github.com/AbzRaider/android_kernel_xiaomi_mt6893.git",
+    "branch": "dev/agate/HyperOS",
+    "device": "chopin",
+    "defconfig": "chopin_user_defconfig"
+  },
+  "withKernelSU": true
+}
